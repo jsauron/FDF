@@ -28,6 +28,8 @@ Run `./fdf [mapfile]`
 * color `shift`
 
 ## Exemples
+![image 1](https://i.imgur.com/l7J7jC6.png)
+
 
 ## Author
 
