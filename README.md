@@ -28,9 +28,12 @@ Run `./fdf [mapfile]`
 * color `shift`
 
 ## Exemples
-![image 1](https://i.imgur.com/l7J7jC6.png)
-
+![42](https://i.imgur.com/l7J7jC6.png)
+![image 2](https://i.imgur.com/sJGdswk.png)
+![image 4](https://i.imgur.com/DSnF2AK.png)
+![image 5](https://i.imgur.com/2riyvyl.png)
+![image 6](https://i.imgur.com/9NiR1lX.png)
 
 ## Author
 
-**Jeanne Sauron**
+**©Jeanne Sauron**
